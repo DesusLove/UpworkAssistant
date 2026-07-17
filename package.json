@@ -1,0 +1,24 @@
+{
+  "name": "upwork-assistant",
+  "displayName": "Upwork Assistant",
+  "version": "1.0.0",
+  "description": "Upwork Assistant with 14 languages support - intelligent job information aggregation for freelancers",
+  "author": "Austin",
+  "scripts": {
+    "dev": "plasmo dev",
+    "build": "plasmo build",
+    "package": "plasmo package"
+  },
+  "dependencies": {
+    "@plasmohq/storage": "^1.15.0",
+    "plasmo": "0.90.3",
+    "vue": "3.5.13"
+  },
+  "devDependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "4.4.1",
+    "@types/chrome": "0.0.306",
+    "@types/node": "22.13.5",
+    "prettier": "3.5.2",
+    "typescript": "5.7.3"
+  }
+}
