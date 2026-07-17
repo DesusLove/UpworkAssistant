@@ -2,7 +2,7 @@
 
 # Upwork Assistant
 
-![Banner](assets/icon.png)
+![Banner](assets/banner.png)
 
 **Supercharge your Upwork job browsing with instant insights.**
 

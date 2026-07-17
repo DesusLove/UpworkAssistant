@@ -1,6 +1,6 @@
 # Upwork Assistant
 
-![Upwork Assistant Logo](assets/icon.png)
+![Upwork Assistant Logo](assets/banner.png)
 
 ## 🌟 Features
 
