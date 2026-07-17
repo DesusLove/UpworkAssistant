@@ -1,6 +1,6 @@
 # Upwork Assistant
 
-![Upwork Assistant Logo](assets/banner.png)
+<img src="assets/banner.png" alt="Upwork Assistant Logo" width="400">
 
 ## 🌟 Features
 

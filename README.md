@@ -2,7 +2,7 @@
 
 # Upwork Assistant
 
-![Banner](assets/banner.png)
+<img src="assets/banner.png" alt="Banner" width="400">
 
 **Supercharge your Upwork job browsing with instant insights.**
 
