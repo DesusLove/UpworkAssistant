@@ -33,8 +33,8 @@ Upwork Assistant is a **browser extension** that automatically extracts and disp
 Automatically injects a beautifully styled info card into Upwork's job detail slider showing everything you need at a glance:
 
 - **Budget / hourly rate** with fixed & range support
-- **Competition metrics** — proposals, interviews, hires
-- **Client details** — location, total spent, hire rate
+- **Competition metrics** proposals, interviews, hires
+- **Client details** location, total spent, hire rate
 - **Connects** required to submit a proposal
 - **Unanswered invites** count
 
@@ -42,7 +42,7 @@ Automatically injects a beautifully styled info card into Upwork's job detail sl
 <td width="50%">
 
 ### 🧠 Resilient DOM Engine
-Upwork's UI changes frequently — this extension adapts:
+Upwork's UI changes frequently this extension adapts:
 
 - 3 fallback strategies for budget extraction
 - 4 methods for Connects detection
@@ -70,8 +70,8 @@ Smart compact mode prevents text overflow in long-word languages.
 
 ### 💡 UX First
 - Seamless Upwork visual integration
-- Color-coded metrics (green for hires)
-- Lazy loading — never blocks the page
+- Color coded metrics (green for hires)
+- Lazy loading never blocks the page
 - Privacy-first: **zero data leaves your browser**
 
 </td>
@@ -154,9 +154,9 @@ open https://www.upwork.com
 <summary><strong>v1.0.0</strong> — 14 languages, architecture refactor</summary>
 
 - **🌍 14 languages** covering 80-90% of Upwork freelancers
-- **🏗️ i18n modularization** — separated from main content script
-- **📱 Compact display mode** for long-word languages (DE, FR)
-- **🐛 Bug fixes** — default language, popup selector, TS types
+- **🏗️ i18n modularization** separated from main content script
+- **📱 Compact display mode** for long word languages (DE, FR)
+- **🐛 Bug fixes** default language, popup selector, TS types
 </details>
 
 <details>
