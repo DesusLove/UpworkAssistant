@@ -19,7 +19,7 @@
 
 ## 🌟 Overview
 
-Upwork Assistant is a **browser extension** that automatically extracts and displays key job information directly on Upwork's job detail panel — budget, competition stats, client info, and required Connects — so you never have to hunt for data again.
+Upwork Assistant is a **browser extension** that automatically extracts and displays key job information directly on Upwork's job detail panel budget, competition stats, client info, and required Connects so you never have to hunt for data again.
 
 ---
 
